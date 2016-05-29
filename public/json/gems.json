@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Azurite"
+        , "price": 2.95
+        , "canPurchase": true
+        , "description": "test"
+        , "soldOut": false
+    }, 
+    {
+        "name": "Ruby"
+        , "price": 3.00
+        , "canPurchase": true
+        , "description": "2"
+        , "soldOut": false
+    }
+]

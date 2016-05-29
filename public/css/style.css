@@ -1,8 +1,18 @@
+header{
+    margin: 50px;
+}
+
 body {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
+/*    margin-top: 50px;*/
+/*    margin-bottom: 50px;*/
+/*    margin-left: 50px;*/
+/*    margin-right: 50px;*/
+    padding-top: 60px;
+}
+@media (max-width: 980px) {
+    body {
+        padding-top: 0;
+    }
 }
 
 .ng-invalid.ng-dirty {
